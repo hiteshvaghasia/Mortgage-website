@@ -1,0 +1,1991 @@
+.vraj-homepage {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.vraj-homepage .div {
+  background-color: #ffffff;
+  height: 6127px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.vraj-homepage .overlap {
+  height: 784px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1441px;
+}
+
+.vraj-homepage .rectangle {
+  background-color: #fff6e9;
+  height: 784px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 1440px;
+}
+
+.vraj-homepage .rectangle-2 {
+  background-color: #ffffff;
+  height: 102px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.vraj-homepage .img {
+  height: 106px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 106px;
+}
+
+.vraj-homepage .ready-to-buy-a-home {
+  color: #181818;
+  font-family: "Lato", Helvetica;
+  font-size: 55px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 1.65px;
+  line-height: normal;
+  position: absolute;
+  top: 240px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper {
+  font-weight: 900;
+}
+
+.vraj-homepage .span {
+  color: #181818;
+  font-family: "Lato", Helvetica;
+  font-size: 55px;
+  font-weight: 400;
+  letter-spacing: 1.65px;
+}
+
+.vraj-homepage .let-s-make-it-simple {
+  color: #181818;
+  font-family: "Lato", Helvetica;
+  font-size: 55px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 1.65px;
+  line-height: normal;
+  position: absolute;
+  top: 313px;
+}
+
+.vraj-homepage .p {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 0.64px;
+  line-height: normal;
+  position: absolute;
+  top: 466px;
+}
+
+.vraj-homepage .text-wrapper-2 {
+  color: #181818;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 717px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .rectangle-3 {
+  border: 1px solid;
+  border-color: #e1a03e;
+  border-radius: 274.5px 274.5px 0px 0px;
+  height: 617px;
+  left: 777px;
+  position: absolute;
+  top: 165px;
+  width: 510px;
+}
+
+.vraj-homepage .rectangle-4 {
+  background-color: #f0cea5;
+  border-radius: 274.5px 274.5px 0px 0px;
+  height: 593px;
+  left: 797px;
+  position: absolute;
+  top: 189px;
+  width: 490px;
+}
+
+.vraj-homepage .rectangle-5 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 73px;
+  left: 90px;
+  position: absolute;
+  top: 526px;
+  width: 483px;
+}
+
+.vraj-homepage .group {
+  height: 56px;
+  left: 403px;
+  position: absolute;
+  top: 540px;
+  width: 152px;
+}
+
+.vraj-homepage .overlap-group {
+  background-color: #5a1e6d;
+  border-radius: 6px;
+  height: 56px;
+  position: relative;
+  width: 150px;
+}
+
+.vraj-homepage .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 93px;
+}
+
+.vraj-homepage .ellipse-wrapper {
+  border: 1px solid;
+  border-color: #000000cc;
+  border-radius: 10px;
+  height: 20px;
+  left: 108px;
+  position: absolute;
+  top: 552px;
+  width: 20px;
+}
+
+.vraj-homepage .ellipse {
+  background-color: #5a1e6d;
+  border-radius: 6px;
+  height: 12px;
+  left: 3px;
+  position: relative;
+  top: 3px;
+  width: 12px;
+}
+
+.vraj-homepage .text-wrapper-4 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 138px;
+  letter-spacing: 0.64px;
+  line-height: normal;
+  position: absolute;
+  top: 551px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .group-2 {
+  height: 20px;
+  left: 248px;
+  position: absolute;
+  top: 552px;
+  width: 106px;
+}
+
+.vraj-homepage .ellipse-2 {
+  border: 1px solid;
+  border-color: #000000cc;
+  border-radius: 10px;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.vraj-homepage .text-wrapper-5 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 30px;
+  letter-spacing: 0.64px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.vraj-homepage .group-3 {
+  background-image: url(https://c.animaapp.com/Iqjb8vQh/img/mask-group.png);
+  background-size: 100% 100%;
+  height: 586px;
+  left: 848px;
+  position: absolute;
+  top: 196px;
+  width: 459px;
+}
+
+.vraj-homepage .group-4 {
+  height: 152px;
+  left: 786px;
+  position: absolute;
+  top: 144px;
+  width: 151px;
+}
+
+.vraj-homepage .group-5 {
+  height: 191px;
+  left: 1266px;
+  position: absolute;
+  top: 409px;
+  width: 174px;
+}
+
+.vraj-homepage .group-6 {
+  height: 195px;
+  left: 670px;
+  position: absolute;
+  top: 581px;
+  width: 192px;
+}
+
+.vraj-homepage .div-wrapper {
+  height: 19px;
+  left: 493px;
+  position: absolute;
+  top: 41px;
+  width: 74px;
+}
+
+.vraj-homepage .text-wrapper-6 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-7 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 595px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-8 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 870px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .group-7 {
+  height: 19px;
+  left: 691px;
+  position: absolute;
+  top: 41px;
+  width: 89px;
+}
+
+.vraj-homepage .vector {
+  height: 5px;
+  left: 77px;
+  position: absolute;
+  top: 9px;
+  width: 10px;
+}
+
+.vraj-homepage .text-wrapper-9 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 808px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-10 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1166px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .overlap-wrapper {
+  height: 45px;
+  left: 1240px;
+  position: absolute;
+  top: 29px;
+  width: 141px;
+}
+
+.vraj-homepage .overlap-2 {
+  border-radius: 6px;
+  height: 45px;
+  position: relative;
+}
+
+.vraj-homepage .group-8 {
+  height: 19px;
+  left: 18px;
+  position: absolute;
+  top: 13px;
+  width: 108px;
+}
+
+.vraj-homepage .text-wrapper-11 {
+  color: #5a1e6d;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.vraj-homepage .arrow {
+  height: 11px;
+  left: 86px;
+  position: absolute;
+  top: 5px;
+  width: 20px;
+}
+
+.vraj-homepage .rectangle-6 {
+  border: 1.3px solid;
+  border-color: #5a1e6d;
+  border-radius: 6px;
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 141px;
+}
+
+.vraj-homepage .overlap-3 {
+  height: 2235px;
+  left: 82px;
+  position: absolute;
+  top: 1881px;
+  width: 1359px;
+}
+
+.vraj-homepage .overlap-4 {
+  height: 2235px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 1335px;
+}
+
+.vraj-homepage .group-9 {
+  height: 659px;
+  left: 33px;
+  position: absolute;
+  top: 0;
+  width: 1213px;
+}
+
+.vraj-homepage .overlap-5 {
+  background-color: #ffffff;
+  border-radius: 274.5px 274.5px 0px 0px;
+  box-shadow: 0px 0px 59px 4px #d2d2d230;
+  height: 505px;
+  left: 370px;
+  position: absolute;
+  top: 154px;
+  width: 418px;
+}
+
+.vraj-homepage .overlap-6 {
+  height: 133px;
+  left: 105px;
+  position: absolute;
+  top: 124px;
+  width: 159px;
+}
+
+.vraj-homepage .rectangle-7 {
+  background-color: #ebf7f3;
+  border-radius: 0px 267px 267px 0px;
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-90deg);
+  width: 133px;
+}
+
+.vraj-homepage .mortgage-loan {
+  height: 101px;
+  left: 50px;
+  position: absolute;
+  top: 20px;
+  width: 109px;
+}
+
+.vraj-homepage .flexcontainer {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 67px;
+  left: 36px;
+  position: absolute;
+  top: 346px;
+  width: 346px;
+}
+
+.vraj-homepage .text {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.vraj-homepage .text-wrapper-12 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.96px;
+}
+
+.vraj-homepage .text-wrapper-13 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  left: 138px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 301px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .why-give-vraj-a-try {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 55px;
+  font-weight: 400;
+  left: 325px;
+  letter-spacing: 1.65px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-14 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 55px;
+  font-weight: 400;
+  letter-spacing: 1.65px;
+}
+
+.vraj-homepage .overlap-group-2 {
+  height: 293px;
+  left: 0;
+  position: absolute;
+  top: 274px;
+  width: 253px;
+}
+
+.vraj-homepage .rectangle-8 {
+  background-color: #fff6e8;
+  border-radius: 0px 267px 267px 0px;
+  height: 126px;
+  left: 27px;
+  position: absolute;
+  top: 4px;
+  transform: rotate(-90deg);
+  width: 133px;
+}
+
+.vraj-homepage .group-10 {
+  height: 269px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 253px;
+}
+
+.vraj-homepage .flexcontainer-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 202px;
+  width: 249px;
+}
+
+.vraj-homepage .text-wrapper-15 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 157px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .online-appointment {
+  height: 109px;
+  left: 70px;
+  position: absolute;
+  top: 0;
+  width: 109px;
+}
+
+.vraj-homepage .overlap-7 {
+  height: 317px;
+  left: 907px;
+  position: absolute;
+  top: 274px;
+  width: 304px;
+}
+
+.vraj-homepage .rectangle-9 {
+  background-color: #fff5f2;
+  border-radius: 0px 267px 267px 0px;
+  height: 126px;
+  left: 54px;
+  position: absolute;
+  top: 4px;
+  transform: rotate(-90deg);
+  width: 133px;
+}
+
+.vraj-homepage .group-11 {
+  height: 293px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 304px;
+}
+
+.vraj-homepage .flexcontainer-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 91px;
+  left: 0;
+  position: absolute;
+  top: 202px;
+  width: 300px;
+}
+
+.vraj-homepage .text-wrapper-16 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  left: 47px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 157px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .cash-traced {
+  height: 95px;
+  left: 98px;
+  position: absolute;
+  top: 0;
+  width: 105px;
+}
+
+.vraj-homepage .overlap-group-wrapper {
+  height: 203px;
+  left: 0;
+  position: absolute;
+  top: 1867px;
+  width: 602px;
+}
+
+.vraj-homepage .overlap-8 {
+  height: 203px;
+  position: relative;
+  width: 600px;
+}
+
+.vraj-homepage .find-what-matches {
+  color: #2e2e2e;
+  font-family: "Lato", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 1.5px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.vraj-homepage .text-wrapper-17 {
+  color: #2e2e2e;
+  font-family: "Lato", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+}
+
+.vraj-homepage .group-12 {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 158px;
+  width: 166px;
+}
+
+.vraj-homepage .overlap-group-3 {
+  background-color: #5a1e6d;
+  border-radius: 6px;
+  height: 45px;
+  position: relative;
+  width: 164px;
+}
+
+.vraj-homepage .text-wrapper-18 {
+  color: #ffffff;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+}
+
+.vraj-homepage .rectangle-10 {
+  background-color: #fff5f2;
+  border-radius: 0px 0px 337.5px 0px;
+  height: 1254px;
+  left: 322px;
+  position: absolute;
+  top: 539px;
+  transform: rotate(-90deg);
+  width: 772px;
+}
+
+.vraj-homepage .what-home-loan-is {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 670px;
+  letter-spacing: 1.5px;
+  line-height: normal;
+  position: absolute;
+  top: 1222px;
+}
+
+.vraj-homepage .text-wrapper-19 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+}
+
+.vraj-homepage .group-13 {
+  height: 45px;
+  left: 670px;
+  position: absolute;
+  top: 1369px;
+  width: 152px;
+}
+
+.vraj-homepage .overlap-9 {
+  background-color: #5a1e6d;
+  border-radius: 6px;
+  height: 45px;
+  position: relative;
+  width: 150px;
+}
+
+.vraj-homepage .text-wrapper-20 {
+  color: #ffffff;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+}
+
+.vraj-homepage .group-14 {
+  height: 254px;
+  left: 321px;
+  position: absolute;
+  top: 901px;
+  width: 308px;
+}
+
+.vraj-homepage .overlap-10 {
+  background-color: #ffffff;
+  border-radius: 17px;
+  box-shadow: 3px 3px 15px #bfbfbf54;
+  height: 254px;
+  position: relative;
+  width: 306px;
+}
+
+.vraj-homepage .text-wrapper-21 {
+  color: #e7e7e7;
+  font-family: "Lato", Helvetica;
+  font-size: 22px;
+  font-weight: 900;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .group-15 {
+  height: 138px;
+  left: 23px;
+  position: absolute;
+  top: 79px;
+  width: 270px;
+}
+
+.vraj-homepage .text-wrapper-22 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 64px;
+  left: 0;
+  letter-spacing: 0.84px;
+  line-height: normal;
+  position: absolute;
+  top: 42px;
+}
+
+.vraj-homepage .text-wrapper-23 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 22px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-24 {
+  color: #5a1e6d;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 118px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .group-16 {
+  height: 17px;
+  left: 89px;
+  position: absolute;
+  top: 121px;
+  width: 16px;
+}
+
+.vraj-homepage .group-17 {
+  height: 254px;
+  left: 666px;
+  position: absolute;
+  top: 901px;
+  width: 308px;
+}
+
+.vraj-homepage .text-wrapper-25 {
+  color: #e7e7e7;
+  font-family: "Lato", Helvetica;
+  font-size: 22px;
+  font-weight: 900;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .group-18 {
+  height: 138px;
+  left: 26px;
+  position: absolute;
+  top: 79px;
+  width: 270px;
+}
+
+.vraj-homepage .group-19 {
+  height: 254px;
+  left: 321px;
+  position: absolute;
+  top: 1195px;
+  width: 308px;
+}
+
+.vraj-homepage .group-20 {
+  height: 138px;
+  left: 23px;
+  position: absolute;
+  top: 78px;
+  width: 260px;
+}
+
+.vraj-homepage .the-VA-loan-provides {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 48px;
+  left: 0;
+  letter-spacing: 0.84px;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+}
+
+.vraj-homepage .group-21 {
+  height: 533px;
+  left: 503px;
+  position: absolute;
+  top: 1702px;
+  width: 798px;
+}
+
+.vraj-homepage .overlap-group-4 {
+  height: 533px;
+  position: relative;
+}
+
+.vraj-homepage .group-22 {
+  height: 533px;
+  left: 165px;
+  position: absolute;
+  top: 0;
+  width: 466px;
+}
+
+.vraj-homepage .group-23 {
+  border: 1px solid;
+  border-color: #e1a03e;
+  height: 533px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 441px;
+}
+
+.vraj-homepage .rectangle-11 {
+  background-color: #fff6e9;
+  border-radius: 274.5px 274.5px 0px 0px;
+  height: 533px;
+  left: 26px;
+  position: absolute;
+  top: 0;
+  width: 441px;
+}
+
+.vraj-homepage .women {
+  height: 533px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 798px;
+}
+
+.vraj-homepage .group-24 {
+  height: 254px;
+  left: 0;
+  position: absolute;
+  top: 1195px;
+  width: 308px;
+}
+
+.vraj-homepage .text-wrapper-26 {
+  color: #e7e7e7;
+  font-family: "Lato", Helvetica;
+  font-size: 22px;
+  font-weight: 900;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .group-25 {
+  height: 138px;
+  left: 24px;
+  position: absolute;
+  top: 78px;
+  width: 276px;
+}
+
+.vraj-homepage .FHA-home-loans-are {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 64px;
+  left: 0;
+  letter-spacing: 0.84px;
+  line-height: normal;
+  position: absolute;
+  top: 40px;
+  width: 270px;
+}
+
+.vraj-homepage .group-26 {
+  height: 254px;
+  left: 0;
+  position: absolute;
+  top: 901px;
+  width: 314px;
+}
+
+.vraj-homepage .the-traditional {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 48px;
+  left: 24px;
+  letter-spacing: 0.84px;
+  line-height: normal;
+  position: absolute;
+  top: 119px;
+}
+
+.vraj-homepage .text-wrapper-27 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 22px;
+  font-weight: 500;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 79px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-28 {
+  color: #e6e6e6;
+  font-family: "Lato", Helvetica;
+  font-size: 22px;
+  font-weight: 900;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-29 {
+  color: #5a1e6d;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 197px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .group-27 {
+  height: 17px;
+  left: 113px;
+  position: absolute;
+  top: 200px;
+  width: 16px;
+}
+
+.vraj-homepage .how-does-it-work {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 55px;
+  font-weight: 400;
+  left: 718px;
+  letter-spacing: 1.65px;
+  line-height: normal;
+  position: absolute;
+  top: 1255px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .our-partners {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  left: 73px;
+  letter-spacing: 1.05px;
+  line-height: normal;
+  position: absolute;
+  top: 877px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-30 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 35px;
+  font-weight: 400;
+  letter-spacing: 1.05px;
+}
+
+.vraj-homepage .flexcontainer-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 187px;
+  left: 719px;
+  position: absolute;
+  top: 1350px;
+  width: 627px;
+}
+
+.vraj-homepage .span-wrapper {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: relative;
+  text-align: justify;
+}
+
+.vraj-homepage .text-wrapper-31 {
+  color: #5a1e6d;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 718px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1568px;
+}
+
+.vraj-homepage .text-wrapper-32 {
+  color: #5a1e6d;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 946px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1568px;
+}
+
+.vraj-homepage .group-28 {
+  height: 17px;
+  left: 870px;
+  position: absolute;
+  top: 1574px;
+  width: 16px;
+}
+
+.vraj-homepage .group-29 {
+  height: 13px;
+  left: 1104px;
+  position: absolute;
+  top: 1576px;
+  width: 12px;
+}
+
+.vraj-homepage .overlap-11 {
+  height: 611px;
+  left: -2px;
+  position: absolute;
+  top: 1077px;
+  width: 588px;
+}
+
+.vraj-homepage .rectangle-12 {
+  background-color: #ebf7f3;
+  border-radius: 0px 226px 0px 0px;
+  height: 588px;
+  left: 11px;
+  position: absolute;
+  top: 34px;
+  transform: rotate(-90deg);
+  width: 566px;
+}
+
+.vraj-homepage .mask-group {
+  height: 608px;
+  left: 104px;
+  position: absolute;
+  top: 0;
+  width: 435px;
+}
+
+.vraj-homepage .group-30 {
+  height: 65px;
+  left: 384px;
+  position: absolute;
+  top: 868px;
+  width: 915px;
+}
+
+.vraj-homepage .group-wrapper {
+  height: 66px;
+  left: 433px;
+  position: absolute;
+  top: 5173px;
+  width: 571px;
+}
+
+.vraj-homepage .ready-to-get-started-wrapper {
+  height: 66px;
+  position: relative;
+  width: 573px;
+}
+
+.vraj-homepage .ready-to-get-started {
+  color: #202020;
+  font-family: "Lato", Helvetica;
+  font-size: 55px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 1.65px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-33 {
+  color: #202020;
+  font-family: "Lato", Helvetica;
+  font-size: 55px;
+  font-weight: 400;
+  letter-spacing: 1.65px;
+}
+
+.vraj-homepage .overlap-12 {
+  height: 686px;
+  left: 0;
+  position: absolute;
+  top: 4280px;
+  width: 1380px;
+}
+
+.vraj-homepage .rectangle-13 {
+  background-color: #ebf7f3;
+  border-radius: 0px 0px 253.5px 0px;
+  height: 507px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1147px;
+}
+
+.vraj-homepage .what-our-clients-say {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 53px;
+  letter-spacing: 1.5px;
+  line-height: normal;
+  position: absolute;
+  top: 98px;
+}
+
+.vraj-homepage .rectangle-14 {
+  background-color: #ffffff;
+  border-radius: 0px 84px 0px 0px;
+  box-shadow: 0px 0px 37px #dddddd40;
+  height: 426px;
+  left: 63px;
+  position: absolute;
+  top: 273px;
+  transform: rotate(-90deg);
+  width: 400px;
+}
+
+.vraj-homepage .rectangle-15 {
+  background-color: #ffffff;
+  border-radius: 0px 84px 0px 0px;
+  box-shadow: 0px 0px 37px #dddddd40;
+  height: 426px;
+  left: 515px;
+  position: absolute;
+  top: 273px;
+  transform: rotate(-90deg);
+  width: 400px;
+}
+
+.vraj-homepage .rectangle-16 {
+  background-color: #ffffff;
+  border-radius: 0px 84px 0px 0px;
+  box-shadow: 0px 0px 37px #dddddd40;
+  height: 426px;
+  left: 967px;
+  position: absolute;
+  top: 273px;
+  transform: rotate(-90deg);
+  width: 400px;
+}
+
+.vraj-homepage .ellipse-3 {
+  height: 78px;
+  left: 361px;
+  object-fit: cover;
+  position: absolute;
+  top: 321px;
+  width: 78px;
+}
+
+.vraj-homepage .ellipse-4 {
+  height: 78px;
+  left: 814px;
+  object-fit: cover;
+  position: absolute;
+  top: 321px;
+  width: 78px;
+}
+
+.vraj-homepage .ellipse-5 {
+  height: 78px;
+  left: 1266px;
+  object-fit: cover;
+  position: absolute;
+  top: 321px;
+  width: 78px;
+}
+
+.vraj-homepage .bi-star-fill {
+  height: 16px;
+  left: 527px;
+  position: absolute;
+  top: 373px;
+  width: 16px;
+}
+
+.vraj-homepage .bi-star-fill-2 {
+  height: 16px;
+  left: 547px;
+  position: absolute;
+  top: 373px;
+  width: 16px;
+}
+
+.vraj-homepage .bi-star-fill-3 {
+  height: 16px;
+  left: 567px;
+  position: absolute;
+  top: 373px;
+  width: 16px;
+}
+
+.vraj-homepage .bi-star-fill-4 {
+  height: 16px;
+  left: 972px;
+  position: absolute;
+  top: 373px;
+  width: 16px;
+}
+
+.vraj-homepage .bi-star-fill-5 {
+  height: 16px;
+  left: 992px;
+  position: absolute;
+  top: 373px;
+  width: 16px;
+}
+
+.vraj-homepage .bi-star-fill-6 {
+  height: 16px;
+  left: 1012px;
+  position: absolute;
+  top: 373px;
+  width: 16px;
+}
+
+.vraj-homepage .bi-star-fill-7 {
+  height: 16px;
+  left: 587px;
+  position: absolute;
+  top: 373px;
+  width: 16px;
+}
+
+.vraj-homepage .group-31 {
+  height: 15px;
+  left: 71px;
+  position: absolute;
+  top: 373px;
+  width: 96px;
+}
+
+.vraj-homepage .bi-star-half {
+  height: 16px;
+  left: 607px;
+  position: absolute;
+  top: 373px;
+  width: 16px;
+}
+
+.vraj-homepage .bi-star {
+  height: 16px;
+  left: 1032px;
+  position: absolute;
+  top: 373px;
+  width: 16px;
+}
+
+.vraj-homepage .bi-star-2 {
+  height: 16px;
+  left: 1052px;
+  position: absolute;
+  top: 373px;
+  width: 16px;
+}
+
+.vraj-homepage .flexcontainer-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 115px;
+  left: 71px;
+  position: absolute;
+  top: 436px;
+  width: 339px;
+}
+
+.vraj-homepage .text-2 {
+  align-self: stretch;
+  color: #000000cc;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: relative;
+}
+
+.vraj-homepage .text-wrapper-34 {
+  color: #000000cc;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.96px;
+}
+
+.vraj-homepage .james-smith {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 19px;
+  left: 71px;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: absolute;
+  top: 597px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-35 {
+  color: #00000080;
+  font-family: "Lato", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 17px;
+  left: 71px;
+  letter-spacing: 0.84px;
+  line-height: normal;
+  position: absolute;
+  top: 622px;
+}
+
+.vraj-homepage .james-smith-2 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 19px;
+  left: 527px;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: absolute;
+  top: 597px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-36 {
+  color: #00000080;
+  font-family: "Lato", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 17px;
+  left: 527px;
+  letter-spacing: 0.84px;
+  line-height: normal;
+  position: absolute;
+  top: 622px;
+}
+
+.vraj-homepage .james-smith-3 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 19px;
+  left: 972px;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: absolute;
+  top: 597px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-37 {
+  color: #00000080;
+  font-family: "Lato", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 17px;
+  left: 972px;
+  letter-spacing: 0.84px;
+  line-height: normal;
+  position: absolute;
+  top: 622px;
+}
+
+.vraj-homepage .flexcontainer-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 67px;
+  left: 527px;
+  position: absolute;
+  top: 436px;
+  width: 374px;
+}
+
+.vraj-homepage .flexcontainer-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 67px;
+  left: 972px;
+  position: absolute;
+  top: 436px;
+  width: 377px;
+}
+
+.vraj-homepage .group-32 {
+  height: 45px;
+  left: 647px;
+  position: absolute;
+  top: 5295px;
+  width: 152px;
+}
+
+.vraj-homepage .text-wrapper-38 {
+  color: #ffffff;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .group-33 {
+  height: 613px;
+  left: 1px;
+  position: absolute;
+  top: 5513px;
+  width: 1445px;
+}
+
+.vraj-homepage .overlap-13 {
+  border-radius: 0px 0px 0px 100px;
+  height: 613px;
+  position: relative;
+  width: 1439px;
+}
+
+.vraj-homepage .rectangle-17 {
+  background-color: #fff6e9;
+  border-radius: 0px 0px 0px 100px;
+  height: 613px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 1439px;
+}
+
+.vraj-homepage .group-34 {
+  height: 152px;
+  left: 835px;
+  position: absolute;
+  top: 125px;
+  width: 195px;
+}
+
+.vraj-homepage .terms-conditions {
+  color: #000000cc;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: absolute;
+  top: 46px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-39 {
+  color: #000000cc;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: absolute;
+  top: 75px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-40 {
+  color: #000000cc;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: absolute;
+  top: 104px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-41 {
+  color: #000000cc;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: absolute;
+  top: 133px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-42 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.vraj-homepage .group-35 {
+  height: 94px;
+  left: 1078px;
+  position: absolute;
+  top: 125px;
+  width: 200px;
+}
+
+.vraj-homepage .text-wrapper-43 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: absolute;
+  top: 46px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-44 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: absolute;
+  top: 75px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .group-36 {
+  height: 187px;
+  left: 440px;
+  position: absolute;
+  top: 125px;
+  width: 114px;
+}
+
+.vraj-homepage .text-wrapper-45 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: absolute;
+  top: 168px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-46 {
+  color: #000000cc;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-47 {
+  color: #000000cc;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  position: absolute;
+  top: 77px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-48 {
+  color: #000000cc;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  position: absolute;
+  top: 106px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-49 {
+  color: #000000cc;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  position: absolute;
+  top: 136px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .img-2 {
+  height: 69px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 106px;
+}
+
+.vraj-homepage .text-wrapper-50 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 98px;
+  left: 96px;
+  letter-spacing: 0.72px;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 173px;
+  width: 233px;
+}
+
+.vraj-homepage .flexcontainer-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 94px;
+  left: 96px;
+  position: absolute;
+  top: 445px;
+  width: 1176px;
+}
+
+.vraj-homepage .text-3 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.72px;
+  line-height: normal;
+  position: relative;
+  text-align: justify;
+}
+
+.vraj-homepage .text-wrapper-51 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.72px;
+}
+
+.vraj-homepage .text-wrapper-52 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 14px;
+  left: 96px;
+  letter-spacing: 0.72px;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 286px;
+  width: 233px;
+}
+
+.vraj-homepage .group-37 {
+  height: 159px;
+  left: 622px;
+  position: absolute;
+  top: 125px;
+  width: 135px;
+}
+
+.vraj-homepage .text-wrapper-53 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.vraj-homepage .group-38 {
+  height: 112px;
+  left: 0;
+  position: absolute;
+  top: 47px;
+  width: 141px;
+}
+
+.vraj-homepage .text-wrapper-54 {
+  color: #000000cc;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 19px;
+  left: 1px;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-55 {
+  color: #000000cc;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 19px;
+  left: 1px;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-56 {
+  color: #000000cc;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 19px;
+  left: 0;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .text-wrapper-57 {
+  color: #000000cc;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 19px;
+  left: 1px;
+  letter-spacing: 0.96px;
+  line-height: normal;
+  position: absolute;
+  top: 93px;
+  white-space: nowrap;
+}
+
+.vraj-homepage .group-39 {
+  height: 42px;
+  left: 1147px;
+  position: absolute;
+  top: 307px;
+  width: 125px;
+}
+
+.vraj-homepage .group-40 {
+  height: 26px;
+  left: 96px;
+  position: absolute;
+  top: 323px;
+  width: 123px;
+}
+
+.vraj-homepage .line {
+  height: 1px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 392px;
+  width: 1176px;
+}
